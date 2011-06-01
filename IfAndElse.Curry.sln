@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfAndElse.Curry", "IfAndElse.Curry\IfAndElse.Curry.csproj", "{383EBAE3-0207-4C0D-8EEE-5445A733AE69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfAndElse.Curry.Test", "IfAndElse.Curry.Test\IfAndElse.Curry.Test.csproj", "{952D546E-6A38-4DAC-AE93-8BE25E8E2892}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{383EBAE3-0207-4C0D-8EEE-5445A733AE69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{383EBAE3-0207-4C0D-8EEE-5445A733AE69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{383EBAE3-0207-4C0D-8EEE-5445A733AE69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{383EBAE3-0207-4C0D-8EEE-5445A733AE69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{952D546E-6A38-4DAC-AE93-8BE25E8E2892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952D546E-6A38-4DAC-AE93-8BE25E8E2892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952D546E-6A38-4DAC-AE93-8BE25E8E2892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952D546E-6A38-4DAC-AE93-8BE25E8E2892}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
